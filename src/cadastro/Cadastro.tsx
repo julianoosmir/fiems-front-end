@@ -83,8 +83,14 @@ export function Cadastro() {
 
     return (
         <div>
-            <Logo/>
-            <Titulo texto="Formulário de Inscrição de Voluntário na Campanha MS Pela Vida"/>
+            <div>
+                <Logo/>
+            </div>
+
+            <div>
+                <Titulo texto="Formulário de Inscrição de Voluntário na Campanha MS Pela Vida"/>
+
+            </div>
             <Formik
                 initialValues={{
                     cpf: '',
