@@ -1,0 +1,19 @@
+label{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: center;
+    margin: 10px 10px 50px 10px;
+    color: #212427;
+
+    top: 2690px;
+    left: 4089px;
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
